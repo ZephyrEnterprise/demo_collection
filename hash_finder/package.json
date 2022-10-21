@@ -1,0 +1,18 @@
+{
+  "name": "hash_finder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "collection": "node ./from_collection"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@metaplex-foundation/mpl-token-metadata": "^2.2.4",
+    "@solana/web3.js": "^1.56.2",
+    "axios": "^0.27.2",
+    "request": "^2.88.2"
+  }
+}
